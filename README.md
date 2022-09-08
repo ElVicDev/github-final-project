@@ -1,4 +1,5 @@
 # github-final-project
 Final project - Empowering and providing opportunities to low-income people.
 
-![calculation](https://user-images.githubusercontent.com/109630934/188958816-55a0b6df-67ca-4f8c-b155-ee64dc5bcbd0.png)
+
+![readme](https://user-images.githubusercontent.com/109630934/189196068-0253a047-252c-43b0-969d-17438be618aa.png)
